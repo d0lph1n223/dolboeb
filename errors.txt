@@ -1,0 +1,39 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/a1s1.rpy", line 199: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    "- Сбивающий с толку двойной язык, который я слышал, начинает исчезать, и теперь только мой родной язык исходит из его рта.""
+    "Странно, что слова не совсем совпадают с его губами."
+      ^
+    "Что еще больше отвлекает, так это массивные клыки, которые продолжают мелькать за этими губами."
+    "нужно убираться отсюда к чертвой матери.."
+    "Сон это или нет, но мне не нравится вид зубов и когтей у этого волка."
+    show ami embarrassed with dis
+    a "\" Ах, у Лингвы опять проблемы?.\""
+
+File "game/a1s1.rpy", line 936: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    a "\"Нет, нет, нет!\""
+    ^
+
+File "game/a1s1.rpy", line 1159: end of line expected.
+    m "\"И как вам поможет завести "питомца"?\""
+                                    ^
+
+File "game/a1s1.rpy", line 1160: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    a "\"У моего брата есть такой...родственный вид, а это значит, что его питомец находится на том же уровне иерархии.""
+                                                                                                                        ^
+    "Я хмурюсь."
+    m "\"А? И это необычно?\""
+
+File "game/a1s1.rpy", line 1165: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    m "\"Так что же делает домашнее животное?""
+                                              ^
+    "Амикус пожимает плечами."
+    a "\"Это хороший символ статуса. Тот факт, что мой брат смог получить такого престижного питомца, показывает его умение вести переговоры и ставит меня в невыгодное положение.\""
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Wed Feb 05 22:23:49 2020
